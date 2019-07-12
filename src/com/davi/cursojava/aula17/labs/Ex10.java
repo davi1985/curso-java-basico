@@ -20,6 +20,8 @@ public class Ex10 {
 		for (int i = num1; i <= num2; i++) {
 			System.out.println(i);
 		}
+		
+		scan.close();
 	}
 
 }

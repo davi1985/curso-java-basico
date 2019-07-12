@@ -1,7 +1,5 @@
 package com.davi.cursojava.aula17.labs;
 
-import java.util.Scanner;
-
 public class Ex16 {
 
 	public static void main(String[] args) {

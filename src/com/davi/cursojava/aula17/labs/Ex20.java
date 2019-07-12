@@ -30,6 +30,8 @@ public class Ex20 {
 		} else if (media > 60) {
 			System.out.println("Idosos...");
 		}
+		
+		scan.close();
 	}
 
 }

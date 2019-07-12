@@ -19,6 +19,8 @@ public class Ex35 {
 		}
 		
 		System.out.println("\nSoma: " + soma);
+		
+		scan.close();
 	}
 
 }

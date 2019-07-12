@@ -60,6 +60,8 @@ public class Ex21 {
 		}
 		media = soma / qtdClasses;
 		System.out.println("Media: " + media);
+		
+		scan.close();
 
 	}
 

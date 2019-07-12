@@ -24,6 +24,8 @@ public class Ex19 {
         media = soma /notas;
         System.out.println("A soma: " + soma);
         System.out.println("A media: " + media);
+        
+        scan.close();
     }
 
 }

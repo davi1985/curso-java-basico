@@ -2,8 +2,6 @@ package com.davi.cursojava.aula17.labs;
 
 import java.util.Scanner;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 public class Ex13 {
 
 	public static void main(String[] args) {
@@ -31,6 +29,8 @@ public class Ex13 {
 		}
 		
 		System.out.println("Resultado: "+ result);
+		
+		scan.close();
 	}
 
 }

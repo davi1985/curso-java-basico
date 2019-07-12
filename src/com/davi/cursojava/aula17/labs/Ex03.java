@@ -83,7 +83,8 @@ public class Ex03 {
 		System.out.println("Estado Civil: " + civilStatus);
 		System.out.println("Salário: " + salary );
 		
-	
+		
+		scan.close();
 	}
 
 }

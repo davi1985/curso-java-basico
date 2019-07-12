@@ -24,6 +24,8 @@ public class Ex12 {
 			result = i * userNumber;
 			System.out.println(userNumber + " X " + i + " = " + result);
 		}
+		
+		scan.close();
 	}
 
 }

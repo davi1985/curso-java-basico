@@ -27,6 +27,8 @@ public class Ex29 {
 				System.out.print(i + " ");
 			}
 		}
+		
+		scan.close();
 	}
 
 }

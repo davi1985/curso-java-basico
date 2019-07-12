@@ -30,6 +30,9 @@ public class Ex02 {
 				System.out.println("Dados Válidos");
 			}
 		} while (!loginValido);
+		
+		
+		scan.close();
 
 	}
 

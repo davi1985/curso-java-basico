@@ -22,6 +22,8 @@ public class Ex11 {
 			somaFinal += i;
 		}
 		System.out.println("Soma final: " + somaFinal);
+		
+		scan.close();
 	}
 
 }

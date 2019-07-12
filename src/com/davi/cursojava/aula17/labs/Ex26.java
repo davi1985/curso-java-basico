@@ -21,6 +21,9 @@ public class Ex26 {
 			System.out.print(i + " . ");
 		}
 		System.out.println("1 = " + fatorial);
+		
+		
+		scan.close();
 	}
 
 }

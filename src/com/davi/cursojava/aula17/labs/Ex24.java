@@ -20,6 +20,7 @@ public class Ex24 {
 			System.out.println((i+1) + " - R$ "+(sum+=value));
 		}
 
+		scan.close();
 	}
 
 }

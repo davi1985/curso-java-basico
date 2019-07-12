@@ -52,6 +52,8 @@ public class Ex32 {
 		} while (naoTerminar);
 		
 		System.out.println(output);
+		
+		scan.close();
 
 	}
 

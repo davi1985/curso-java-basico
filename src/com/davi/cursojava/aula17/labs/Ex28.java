@@ -23,6 +23,8 @@ public class Ex28 {
 		if (primo) {
 			System.out.println("É número primo...");
 		}
+		
+		scan.close();
 	}
 
 }

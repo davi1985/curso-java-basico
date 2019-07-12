@@ -17,6 +17,8 @@ public class Ex09 {
 			}
 
 		}
+		
+		scan.close();
 	}
 
 }

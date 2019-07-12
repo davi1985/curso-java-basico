@@ -28,6 +28,8 @@ public class Ex22 {
         media = totalCds / qtdCds;
         System.out.println("O colecionador investiu: R$ " + totalCds);
         System.out.println("Media de preço R$ " + media);
+        
+        scan.close();
     }
 
 }

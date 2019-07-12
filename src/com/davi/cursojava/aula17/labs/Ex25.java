@@ -59,6 +59,9 @@ public class Ex25 {
 			}
 			
 		} while (!sair);
+		
+		
+		scan.close();
 	}
 
 }

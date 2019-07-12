@@ -38,7 +38,7 @@ public class BraekEContinue {
 			System.out.println("O valor de i é " + i);
 		}
 		
-		
+		scan.close();
 	}
 
 }

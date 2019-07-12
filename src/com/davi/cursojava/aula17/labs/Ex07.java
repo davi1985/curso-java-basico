@@ -23,6 +23,8 @@ public class Ex07 {
 		}
 		
 		System.out.println("O maior número digitado foi: " + maior);
+		
+		scan.close();
 	}
 
 }

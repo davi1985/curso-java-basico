@@ -22,6 +22,8 @@ public class Ex18 {
 		if (primo) {
 			System.out.println("É número primo...");
 		}
+		
+		scan.close();
 
 	}
 

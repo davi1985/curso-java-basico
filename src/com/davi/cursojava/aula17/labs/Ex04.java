@@ -1,7 +1,5 @@
 package com.davi.cursojava.aula17.labs;
 
-import java.util.Scanner;
-
 public class Ex04 {
 
 	public static void main(String[] args) {
@@ -17,7 +15,7 @@ public class Ex04 {
 			popB += (popB / 100) * 1.5;
 			cont++;
 		}
-		
+
 		System.out.println("Populaçao A: " + popA);
 		System.out.println("Populaçao B: " + popB);
 		System.out.println("Qtd anos: " + cont);

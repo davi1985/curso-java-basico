@@ -2,8 +2,6 @@ package com.davi.cursojava.aula17.labs;
 
 import java.util.Scanner;
 
-import org.omg.CORBA.DynAnyPackage.Invalid;
-
 public class Ex30 {
 
 	public static void main(String[] args) {
@@ -44,6 +42,8 @@ public class Ex30 {
 			result = i * userNumber;
 			System.out.println(userNumber + " X " + i + " = " + result);
 		}
+		
+		scan.close();
 
 	}
 

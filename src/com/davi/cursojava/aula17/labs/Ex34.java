@@ -16,6 +16,8 @@ public class Ex34 {
 			soma += 1 / i;
 		}
 		System.out.println("Soma: " + soma);
+		
+		scan.close();
 	}
 
 }

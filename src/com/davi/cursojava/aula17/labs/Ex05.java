@@ -70,6 +70,8 @@ public class Ex05 {
 		System.out.println("Populaçao A: " + popA);
 		System.out.println("Populaçao B: " + popB);
 		System.out.println("Qtd anos: " + cont);
+		
+		scan.close();
 	}
 
 }

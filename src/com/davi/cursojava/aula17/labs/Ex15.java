@@ -24,6 +24,9 @@ public class Ex15 {
 
 			System.out.println(proximo);
 		}
+		
+		
+		scan.close();
 	}
 
 }

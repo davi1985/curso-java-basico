@@ -19,7 +19,7 @@ public class Ex33 {
 		}
 		
 		System.out.println("\nSoma: " + soma);
-
+		scan.close();
 	}
 
 }

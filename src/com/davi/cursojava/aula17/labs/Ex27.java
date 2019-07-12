@@ -35,6 +35,8 @@ public class Ex27 {
 		System.out.println("Média: " + (sum/qtdTemperaturas));
 		System.out.println("Maior Temperatura: " + maior);
 		System.out.println("Menor Temperatura: " + menor);
+		
+		scan.close();
 	}
 
 }

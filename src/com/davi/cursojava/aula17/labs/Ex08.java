@@ -25,5 +25,7 @@ public class Ex08 {
 		media = soma / 5;
 		System.out.println("Soma dos números: " + soma);
 		System.out.println("Média dos números: " + media);
+		
+		scan.close();
 	}
 }

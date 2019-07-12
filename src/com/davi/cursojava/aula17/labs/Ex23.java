@@ -1,12 +1,10 @@
 package com.davi.cursojava.aula17.labs;
 
-import java.util.Scanner;
 
 public class Ex23 {
 
     public static void main(String[] args) {
 
-        //Scanner scan = new Scanner(System.in);
         double value = 1.99;
         double sum = value;
         int qtd = 50;

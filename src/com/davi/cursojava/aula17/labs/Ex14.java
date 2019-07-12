@@ -24,6 +24,8 @@ public class Ex14 {
 
 		System.out.println("Pares: " + pares);
 		System.out.println("Impares: " + impares);
+		
+		scan.close();
 	}
 
 }
