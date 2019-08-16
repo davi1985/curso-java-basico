@@ -11,17 +11,16 @@ public class Lampada {
 	int garantia;
 	String[] tipos;
 	boolean tipoAbajur;
-	
 	boolean ligada;
-	
+
 	void ligar() {
 		ligada = true;
 	}
-	
+
 	void desligar() {
 		ligada = false;
 	}
-	
+
 	void mostrarEstado() {
 		if (ligada) {
 			System.out.println("Lâmpada está ligada");
@@ -29,7 +28,7 @@ public class Lampada {
 			System.out.println("Lâmpada está desligada");
 		}
 	}
-	
+
 	void mudarEstado() {
 		if (ligada) {
 			desligar();
